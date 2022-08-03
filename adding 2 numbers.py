@@ -1,4 +1,4 @@
-Addition in python
+Addition in python on jenkins
 x = input("Type a number: ")
 y = input("Type another number: ")
 sum = int(x) + int(y)
